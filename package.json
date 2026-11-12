@@ -1,0 +1,29 @@
+{
+  "name": "podvault-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PodVault MVP - zero-backend, client-side encrypted document vault on Solid Pods",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "node qa/e2e.mjs",
+    "sample:pdf": "node scripts/make-sample-pdf.mjs"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.4.299",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/qrcode": "^1.5.6",
+    "playwright-core": "^1.64.1",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

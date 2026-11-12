@@ -1,0 +1,141 @@
+{
+  "checks": [
+    {
+      "name": "auth screen renders",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "vault created and opened",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "document uploaded and listed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "category chip shows aset",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "duplicate upload blocked",
+      "ok": true,
+      "detail": "1 dokumen identik dilewati (anti-duplikasi)"
+    },
+    {
+      "name": "no plaintext in IndexedDB",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no passphrase in IndexedDB",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "ciphertext records present",
+      "ok": true,
+      "detail": "5543 bytes stored"
+    },
+    {
+      "name": "PDF rendered to canvas",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "viewer uses canvas, no object URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "watermark carries WebID",
+      "ok": true,
+      "detail": "https://demo.pod/profile/card#me · ip-lokal · 2026-10-29 04:42:47.102 UTC"
+    },
+    {
+      "name": "watermark carries UTC timestamp",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "right-click blocked",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Ctrl+P blocked",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "share link created without key in URL",
+      "ok": true,
+      "detail": "http://localhost:4173/#/share/196b3130-55c1-4075-bad7-cac6b366edc6"
+    },
+    {
+      "name": "recipient sees passphrase gate",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "recipient watermark marks external recipient",
+      "ok": true,
+      "detail": "penerima-eksternal@196b3130 · ip-lokal · 2026-10-29 04:42:48.697 UTC"
+    },
+    {
+      "name": "recipient route is a share route",
+      "ok": true,
+      "detail": "#/share/196b3130-55c1-4075-bad7-cac6b366edc6"
+    },
+    {
+      "name": "recovery sheet generated with 5 shares",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "shares are prefixed",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "QR codes rendered on sheet",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "vault locks and returns to auth",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "wrong passphrase rejected",
+      "ok": true,
+      "detail": "Passphrase salah."
+    },
+    {
+      "name": "recovery sheet restores vault access",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "audit chain verifies after restore",
+      "ok": true,
+      "detail": "Rantai valid (6 entri)"
+    },
+    {
+      "name": "mobile bottom navigation visible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no uncaught console/page errors",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "consoleErrors": [],
+  "at": "2026-10-29T04:42:51.656Z"
+}

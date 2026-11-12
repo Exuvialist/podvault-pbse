@@ -1,0 +1,57 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 509 >>
+stream
+q 0.95 0.95 0.95 rg 0 0 595 842 re f Q
+q 0.78 0.63 0.29 RG 4 w 48 48 499 746 re S Q
+BT /F1 22 Tf 64 760 Td (HASIL PEMERIKSAAN LAB) Tj ET
+BT /F1 11 Tf 64 726 Td (Nomor: PV-DEMO-2026-0001) Tj ET
+BT /F1 11 Tf 64 690 Td (Dokumen ini dihasilkan otomatis untuk pengujian PodVault.) Tj ET
+BT /F1 11 Tf 64 668 Td (Seluruh isi dienkripsi AES-GCM-256 di peramban.) Tj ET
+BT /F1 11 Tf 64 646 Td (Tidak ada salinan plaintext yang dikirim ke server.) Tj ET
+BT /F1 11 Tf 64 120 Td (Tanda tangan: ____________________) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 437 >>
+stream
+q 0.95 0.95 0.95 rg 0 0 595 842 re f Q
+q 0.78 0.63 0.29 RG 4 w 48 48 499 746 re S Q
+BT /F1 22 Tf 64 760 Td (Lampiran - Nilai Rujukan) Tj ET
+BT /F1 13 Tf 64 720 Td (Lampiran A - Rincian) Tj ET
+BT /F1 11 Tf 64 688 Td (1. Objek: dokumen uji) Tj ET
+BT /F1 11 Tf 64 666 Td (2. Klasifikasi: rahasia) Tj ET
+BT /F1 11 Tf 64 644 Td (3. Pemilik: pemegang WebID) Tj ET
+BT /F1 11 Tf 64 600 Td (Watermark forensik akan tercetak di atas kanvas.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000807 00000 n 
+0000000933 00000 n 
+0000001421 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1491
+%%EOF
